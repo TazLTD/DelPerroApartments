@@ -4,6 +4,9 @@ The Del Perro Unfurnished Apartments MLO is a custom map mod for FiveM, offering
 
 PREVIEW: https://streamable.com/bx33bu
 
+**LOCATION**
+![DelPerroApartments](https://github.com/user-attachments/assets/1d3e3d53-dd61-4975-9292-b9b1fd513edd)
+
 **Features**
    **2 Spacious Apartments: Each apartment includes the following:**
 
@@ -25,3 +28,4 @@ Download the MLO files and place them in your server’s resource folder.
 Add the resource to your server.cfg file:
 start del_perro_apartments
 Restart your server and you're done
+
