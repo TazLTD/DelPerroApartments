@@ -6,11 +6,17 @@ PREVIEW: https://streamable.com/bx33bu
 
 Features
    **2 Spacious Apartments: Each apartment includes the following:
+
    Main Room: A versatile open space ready for furnishing.
+
    Bedroom: A private area for your character's rest and relaxation.
+
    Bathroom: A small bathroom in each unit.
+
    Garage: Secure parking space included with the apartments.
+
    Lobby Area: A stylish and welcoming entryway, perfect for residents and visitors.**
+
 Why Choose This MLO?
 This unfurnished design allows maximum flexibility for players and server owners to create their ideal living space, offering full customization potential for personalizing each apartment.
 
